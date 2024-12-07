@@ -1,4 +1,4 @@
-# flutter_CRUD
+# Flutter_CRUD (◡‿◡✿)
 
 My Project: PHP, SQL, and Flutter Integration
 This project connects a PHP backend with an SQL database, while using Flutter for the frontend. It supports full CRUD operations—Create, Read, Update, and Delete—on the data.
